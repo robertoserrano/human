@@ -93,6 +93,11 @@ p:not(.pitch), li {
     width: 100%;
 }
 
+.images > video {
+    width: calc(100% - 1em);
+    margin: 0.5em;
+}
+
 @media (min-width: 720px) {
     /* .images > a:hover {
         transform: scale(1.02);
