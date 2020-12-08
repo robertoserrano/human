@@ -67,7 +67,7 @@ a:visited {
 }
 
 .cover img {
-    width: 320px;
+    width: 100%;
 }
 
 p:not(.pitch), li {
